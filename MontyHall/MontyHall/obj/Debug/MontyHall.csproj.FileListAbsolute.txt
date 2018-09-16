@@ -1,0 +1,9 @@
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\bin\Debug\MontyHall.exe
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.csprojResolveAssemblyReference.cache
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.Form1.resources
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.Properties.Resources.resources
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.csproj.GenerateResource.Cache
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.csproj.CoreCompileInputs.cache
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.exe
+F:\Documents\Programs\Lanugages\C#\MontyHall\MontyHall\obj\Debug\MontyHall.pdb
