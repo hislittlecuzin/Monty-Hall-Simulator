@@ -80,7 +80,7 @@ namespace MontyHall
             else if (doorButton3.Checked == true) {
                 GuessedCorrect = CorrectChoice(3);
             }
-            #endregion
+#endregion
 
             //Runs if the player guessed the right door and tells the player he wins. 
             if (GuessedCorrect == true) {
@@ -92,10 +92,10 @@ namespace MontyHall
 
             //Runs if this is the player's second guess and didn't get the answer correct. Ends the game. 
             if (guessedOnce == true) {
-                int doorThatHasCar = -1;
-                for(int i = 0; i < doorHasCar.Length; i++) {
+                int doorThatHasCar = -1; //Debug value assigned. If number shows up -1, there was an error in assigning true to a door or the following loop didn't find the door with the car. 
+                for(int i = 0; i < doorHasCar.Length; i++) { //Finds the door with the car behind it. 
                     if (doorHasCar[i] == true) {
-                        doorThatHasCar = (i + 1);
+                        doorThatHasCar = (i + 1); //Assigns variable the real number (not the index) of the door that has the car. 
                     }
                 }
                 informationText.Text = "Sorry. The car was behind door " + doorThatHasCar + ". Better luck next time! Click restart to try again.";
